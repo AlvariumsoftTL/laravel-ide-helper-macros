@@ -1,12 +1,12 @@
 {
-    "name": "ihor-radchenko/laravel-ide-helper-macros",
+    "name": "alvariumsoft/laravel-ide-helper-macros",
     "description": "Generate phpDoc for laravel macroable class.",
-    "homepage": "https://github.com/ihor-radchenko/laravel-ide-helper-macros",
+    "homepage": "https://github.com/AlvariumsoftTL/laravel-ide-helper-macros",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ihor Radchenko",
-            "email": "radchenko1995@gmail.com"
+            "name": "Ivan Morozov",
+            "email": "condenser0071@gmail.com"
         }
     ],
     "keywords": ["laravel", "ide", "helper", "macros", "mixins", "phpdoc", "autocomplete", "phpstorm", "netbeans"],
