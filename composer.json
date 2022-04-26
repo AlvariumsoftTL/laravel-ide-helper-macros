@@ -11,9 +11,9 @@
     ],
     "keywords": ["laravel", "ide", "helper", "macros", "mixins", "phpdoc", "autocomplete", "phpstorm", "netbeans"],
     "require": {
-        "php": "^7.1.3",
+        "php": "^8.0",
         "barryvdh/reflection-docblock": "^2.0.6",
-        "laravel/framework": "5.*"
+        "laravel/framework": "9.*"
     },
     "autoload": {
         "psr-4": {
